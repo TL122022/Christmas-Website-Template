@@ -13,5 +13,5 @@ This Website Template contains:
     <li>Slide in when in view</li>
     <li>Compatible with most devices' screens, such as mobile phones</li>
 <ul>
-
+<br>
 <img src='website-preview.png'>
