@@ -1,0 +1,54 @@
+------ MAIN HEADER & NAV ------
+
+Christmas
+
+Home
+Shop
+Share
+Party
+
+Merry Christmas!
+Christmas is a time for bonding with family and friends! Wish everyone a Merry Christmas and a happy New Year!
+Explore
+
+------ GIFT SHOP ------
+
+Best quality gifts for you and your loved ones to enjoy during Christmas.
+
+Ceramic Cup $15
+100% Cotton Winter Coat $25
+Cotton Socks $10
+Snow Globe $20
+
+------ SHARE A GIFT ------
+
+Sharing is caring. Share a gift to someone you care!
+
+Candy Cane  $4
+Snowman  $5
+Santa Claus's Hat  $6
+Gingerbread Man  $3
+
+------ PARTY ------
+
+Celebrate Christmas with a wonderful party Sign up below now!
+
+Sign up to receive an email on the details. You may cancel your registration anytime.
+
+Sign Up
+
+------ FOOTER ------
+
+Overview
+Prices
+Promotion
+Privacy & Policy
+
+Others
+Donate
+Support
+Our Team
+
+-- Links --
+© Copyright 2022. Codingstar Tutorials.
+Images by <a href='https://iconscout.com/contributors/iconscout'>IconScout Store, <a href='https://iconscout.com/contributors/iqonic-design'>iqonic.design</a>, <br> and <a href='https://www.freepik.com/'>Freepik</a></p>
