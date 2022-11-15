@@ -16,6 +16,6 @@ This Website Template contains:
     <li>A website favicon</li>
 <ul>
     
-<p> Join this channel to see more tutorials like this responsive website! [Codingstar Tutorials](https://www.youtube.com/@CodingstarTutorials)</p>
+<p> Join this channel to see more tutorials like this responsive website! [Codingstar Tutorials](https://www.youtube.com/channel/UCadItSVcBu0pS3ES8UJQJ1A) </p>
     
 <img src='website-preview.png'>
