@@ -1,8 +1,7 @@
 # Responsive Christmas Website Template
+## Full Video Tutorial: https://youtu.be/jjslzo4TWk4
 
 Get Full Source Code: https://www.buymeacoffee.com/cstutorials/e/101343
-
-Full Video Tutorial: https://youtu.be/jjslzo4TWk4
 
 This Website Template contains:
 <ul>
@@ -16,7 +15,6 @@ This Website Template contains:
     <li>Compatible with most devices' screens, such as mobile phones</li>
     <li>A website favicon</li>
 <ul>
-<br>
-Join this channel to see more tutorials like this responsive website! (Codingstar Tutorials)[https://www.youtube.com/@CodingstarTutorials]
+Join this channel to see more tutorials like this responsive website! [Codingstar Tutorials](https://www.youtube.com/@CodingstarTutorials)
 <br>
 <img src='website-preview.png'>
