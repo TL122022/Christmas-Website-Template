@@ -15,6 +15,7 @@ This Website Template contains:
     <li>Compatible with most devices' screens, such as mobile phones</li>
     <li>A website favicon</li>
 <ul>
-Join this channel to see more tutorials like this responsive website! [Codingstar Tutorials](https://www.youtube.com/@CodingstarTutorials)
-<br>
+    
+<p> Join this channel to see more tutorials like this responsive website! [Codingstar Tutorials](https://www.youtube.com/@CodingstarTutorials)</p>
+    
 <img src='website-preview.png'>
