@@ -3,6 +3,8 @@
 
 Get Full Source Code: https://www.buymeacoffee.com/cstutorials/e/101343
 
+Join this channel to see more tutorials like this responsive website! [Codingstar Tutorials](https://www.youtube.com/channel/UCadItSVcBu0pS3ES8UJQJ1A)
+
 This Website Template contains:
 <ul>
     <li>A preloader that shows before the page completes loading</li>
@@ -15,7 +17,5 @@ This Website Template contains:
     <li>Compatible with most devices' screens, such as mobile phones</li>
     <li>A website favicon</li>
 <ul>
-    
-<p> Join this channel to see more tutorials like this responsive website! [Codingstar Tutorials](https://www.youtube.com/channel/UCadItSVcBu0pS3ES8UJQJ1A) </p>
     
 <img src='website-preview.png'>
