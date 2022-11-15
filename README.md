@@ -17,5 +17,5 @@ This Website Template contains:
     <li>Compatible with most devices' screens, such as mobile phones</li>
     <li>A website favicon</li>
 <ul>
-    
+   <br>
 <img src='website-preview.png'>
